@@ -1,2 +1,5 @@
 # OpenGL-Assignment-4
-Differential Rendering in Panorama
+Rendering in Panorama
+
+Implement Blinn phong + environment mapping and Skybox
+but failed to show the shadow.
